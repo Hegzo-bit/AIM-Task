@@ -2,8 +2,8 @@
 
 A text classification task using both DL and ML models.
 
-you need to run the notebook generate the pickle in order to use the ML depolyment in main.py.
-
 you can check out the simple presentation for more information.
+
+you need to run the notebook generate the pickle in order to use the ML depolyment in main.py.
 
 
