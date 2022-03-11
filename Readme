@@ -1,0 +1,6 @@
+
+The notebook was run on colab so dependancies are not a problem.
+
+you need to run the notebook generate the pickle in order to use the ML depolyment in main.py.
+
+
