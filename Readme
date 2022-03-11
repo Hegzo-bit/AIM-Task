@@ -1,6 +1,9 @@
 
-The notebook was run on colab so dependancies are not a problem.
+
+A text classification task using both DL and ML models.
 
 you need to run the notebook generate the pickle in order to use the ML depolyment in main.py.
+
+you can check out the simple presentation for more information.
 
 
