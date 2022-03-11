@@ -1,8 +1,8 @@
 
 
-A text classification task using both DL and ML models.
+A text classification task using both DL and ML models based on the dataset and the dialect identification problem were addressed by Qatar Computing Research Institute, feel free to get more insights from it, https://arxiv.org/pdf/2005.06557.pdf
 
-you can check out the simple presentation for more information.
+you can check out the simple presentation for a quick guide through the steps.
 
 you need to run the notebook generate the pickle in order to use the ML depolyment in main.py.
 
